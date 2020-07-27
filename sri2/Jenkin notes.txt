@@ -1,0 +1,20 @@
+jenkins
+=============
+this is a tool for implemneting CI-CD
+
+
+stage in CI-CD
+======================
+Stage 1 (continious Download)
+The code created by developers is uploaded into some version controlling
+system like GIT Jenkins will get a notification and jenkins will download that code. 
+This is called continuous download.
+
+stage 2 (continuous Build)
+
+stage 3 (continuous deployment)
+
+stage 4 (continuous testing)
+
+stage 5 (continuous delivery)
+
