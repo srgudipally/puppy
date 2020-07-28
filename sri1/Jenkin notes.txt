@@ -18,3 +18,5 @@ stage 4 (continuous testing)
 
 stage 5 (continuous delivery)
 
+
+we can writedown any thing we want are can provide an information regards project update
